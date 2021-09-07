@@ -4,8 +4,11 @@ About Me
 Welcome! I am Jonathan Lau, a PhD student at the [Center for Quantum Technologies](https://www.quantumlah.org), located in the [National University of Singapore](https://www.nus.edu.sg), which is also where I obtained my BSc (Hons) in physics from. I am under the supervision of Professor [Kwek Leong Chuan](https://www.quantumlah.org/research/group/kwek), studying theoretical Quantum Information and Quantum Computation.
 
 Currently have interest/working on:
+
 -Near term Quantum Computing Algorithms 
+
 -Atomtronics, using cold boson gases to study many-body physics
+
 -Using photonic chips for machine learning in quantum chemistry
 
 A data-driven personal website
