@@ -56,7 +56,7 @@ Languages
       {% include archive-single-talk-cv.html %}
     {% endfor %}</ul>
 {% endcomment %}  
-    
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -71,3 +71,7 @@ Service and leadership
 * 2017 - 2018: Events director of NUS Physics Society
   * Duties include organizing social and outreach events.
   * An example of an event organized was a series of outreach talks by various professors in the physics department of NUS. [Example of a talk](https://www.youtube.com/watch?v=e_UnaD_u1MU)
+
+Other Certifications
+=====
+* WSET Level 1 Award in Wine
