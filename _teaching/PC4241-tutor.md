@@ -1,0 +1,13 @@
+---
+title: "Graduate Teaching Assistant"
+collection: teaching
+type: "Undergraduate Statistical Mechanics Course"
+permalink: /teaching/PC4241-tutor
+venue: "National University of Singapore, Department of Physics"
+date: 2021 - Present
+location: "Singapore"
+---
+
+* Teaching assistant for PC4241 in the National University of Singapore. PC4241 is an advanced statistical mechanics module, meant for final year undergraduates.
+* Was responsible for conducting tutorial sessions for undergraduates taking the module, and providing remedial help for those that need it.
+* Other duties include marking the assignments of the undergraduates taking the modules, and various ancillary administrative duties needed for the module to be run smoothly.

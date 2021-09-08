@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate coding course"
+type: "Undergraduate Coding Course"
 permalink: /teaching/CS1010s-tutor
 venue: "National University of Singapore, School of Computing"
 date: 2018 - 2020
