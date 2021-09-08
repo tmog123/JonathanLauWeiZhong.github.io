@@ -2,7 +2,7 @@
 title: "Simulating Energy Transfer in Molecular Systems with Digital Quantum Computers"
 collection: publications
 permalink: /publication/lee2021simulating
-date: Arxiv prepint published in 2021
+date: 2021-01-02
 venue: 'Preprint on Arxiv'
 paperurl: 'https://arxiv.org/pdf/2101.06879.pdf'
 ---
