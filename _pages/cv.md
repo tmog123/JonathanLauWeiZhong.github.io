@@ -75,3 +75,6 @@ Service and leadership
 Other Certifications
 =====
 * WSET Level 1 Award in Wine
+* Advanced certificate in network operations management, monitoring & maintenance
+
+
