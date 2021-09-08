@@ -46,7 +46,6 @@ Skills
 * Programming
   * Python
   * Matlab
-* Skill 3
 
 Languages
 =====
