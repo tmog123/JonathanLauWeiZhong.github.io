@@ -54,24 +54,25 @@ Languages
 * Mandarin: Spoken and written
 * Korean: Basic spoken
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+{% comment %} 
+  Publications
+  ======
+    <ul>{% for post in site.publications %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
+    
+  Talks
+  ======
+    <ul>{% for post in site.talks %}
+      {% include archive-single-talk-cv.html %}
+    {% endfor %}</ul>
+    
+  Teaching
+  ======
+    <ul>{% for post in site.teaching %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
+{% endcomment %}  
 Service and leadership
 ======
 * 2018 - 2019: Academic director of NUS Physics Society
