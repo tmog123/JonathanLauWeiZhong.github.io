@@ -21,16 +21,6 @@ Work experience
   * Research direction: to study how we can use near term quantum devices to study various problems in physics and chemistry.
   * Supervisor: Kwek Leong Chuan
 
-* 2021 - Present: Graduate Teaching Assistant
-  * Teaching assistant for PC4241 in the National University of Singapore. PC4241 is an advanced statistical mechanics module, meant for final year undergraduates.
-  * Was responsible for conducting tutorial sessions for undergraduates taking the module, and providing remedial help for those that need it.
-  * Other duties include marking the assignments of the undergraduates taking the modules, and various ancillary administrative duties needed for the module to be run smoothly.
-
-* 2018 - 2020: Undergraduate Teaching Assistant
-  * Teaching assistant for CS1010S in the National University of Singapore. CS1010S is an introductory coding module, meant to teach undergraduates the basics of coding and computational thinking.
-  * Was responsible for conducting tutorial sessions for undergraduates taking the module, and to provide personal help for those struggling
-  * Other duties include marking the assignments of the undergraduates taking the modules, and mantaining the state of the forum on the online platform being used by the module.
-
 * 2018 - 2020: Undergraduate Student Researcher
   * Was an undergraduate researcher working on Density Functional Theory, and applying it to cold atomic systems.
   * Supervisor: Berthold-Georg Englert
@@ -65,13 +55,14 @@ Languages
     <ul>{% for post in site.talks %}
       {% include archive-single-talk-cv.html %}
     {% endfor %}</ul>
-    
-  Teaching
-  ======
-    <ul>{% for post in site.teaching %}
-      {% include archive-single-cv.html %}
-    {% endfor %}</ul>
 {% endcomment %}  
+    
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Service and leadership
 ======
 * 2018 - 2019: Academic director of NUS Physics Society
