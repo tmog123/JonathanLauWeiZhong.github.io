@@ -11,29 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. (Hons) in Physics, National University of Singapore, 2020 
+  * First Class Honours
+* Ph.D in Physics, National University of Singapore/Center for Quantum Technologies, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - Present: PhD student/researcher
+  * Research direction: to study how we can use near term quantum devices to study various problems in physics and chemistry.
+  * Supervisor: Kwek Leong Chuan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 - Present: Graduate Teaching Assistant
+  * Teaching assistant for PC4241 in the National University of Singapore. PC4241 is an advanced statistical mechanics module, meant for final year undergraduates.
+  * Was responsible for conducting tutorial sessions for undergraduates taking the module, and providing remedial help for those that need it.
+  * Other duties include marking the assignments of the undergraduates taking the modules, and various ancillary administrative duties needed for the module to be run smoothly.
+
+* 2018 - 2020: Undergraduate Teaching Assistant
+  * Teaching assistant for CS1010S in the National University of Singapore. CS1010S is an introductory coding module, meant to teach undergraduates the basics of coding and computational thinking.
+  * Was responsible for conducting tutorial sessions for undergraduates taking the module, and to provide personal help for those struggling
+  * Other duties include marking the assignments of the undergraduates taking the modules, and mantaining the state of the forum on the online platform being used by the module.
+
+* 2018 - 2020: Undergraduate Student Researcher
+  * Was an undergraduate researcher working on Density Functional Theory, and applying it to cold atomic systems.
+  * Supervisor: Berthold-Georg Englert
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Research & Mathematical Modeling
+* Programming
+  * Python
+  * Matlab
 * Skill 3
 
 Publications
@@ -56,4 +63,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2018 - 2019: Academic director of NUS Physics Society
+  * Duties include collating past year papers and producing solution sets for the benefit of the undergraduate population.
+* 2017 - 2018: Events director of NUS Physics Society
+  * Duties include organizing social and outreach events.
+  * An example of an event organized was a series of outreach talks by various professors in the physics department of NUS. [Example of a talk](https://www.youtube.com/watch?v=e_UnaD_u1MU)
