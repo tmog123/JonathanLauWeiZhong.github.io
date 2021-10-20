@@ -30,6 +30,13 @@ Work experience
   * Left service with a Platoon Sergeant appointment
   * Responsibilities included aiding the platoon commander with planning during operations and training, and ensuring the well-being and daily necessities of the platoon were being mantained.
 
+Refereed Journals & Conferences
+======
+* International Journal of Quantum Information
+* Quantum Techniques in Machine Learning 2021
+* Quantum Science and Technology
+* Physical Review A (Sub-referee)
+
 Skills
 ======
 * Research & Mathematical Modeling
