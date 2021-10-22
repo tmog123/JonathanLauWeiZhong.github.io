@@ -35,6 +35,7 @@ Refereed Journals & Conferences
 * International Journal of Quantum Information
 * Quantum Techniques in Machine Learning 2021
 * Quantum Science and Technology
+* AVS Quantum Science
 * Physical Review A (Sub-referee)
 
 Skills
