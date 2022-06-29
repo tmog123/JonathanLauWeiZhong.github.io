@@ -15,6 +15,6 @@ redirect_from:
 * Atomtronics: Recent developments in cold atom systems has allowed us the ability to control atomic matter-waves of ultra-cold atoms. This allows us to realize circuits of atoms, which are analogs of electrical circuits, but with the current carriers being bosons or generic fermions as opposed to electrons. Furthermore, we have the ability to manipulate such atoms coherently in a large variety of trap potentials, giving us the tools to study physics in many different geometries. Such systems allow us a method to perform analog simulations of quantum many-body problems, and allow us a tool to develop new technologies.
 
 
-* Applying quantum simulators and platforms to quantum chemistry:
+* Integrated Photonic Chips: Such platforms have many potential applications, such as in quantum computing. We are exploring alternative uses, like speeding up and efficiently implementing classical machine learning models on such devices.
 
-* The application of Density Functional Theory to cold atom systems:
+* The application of Density Functional Theory to cold atom systems.
