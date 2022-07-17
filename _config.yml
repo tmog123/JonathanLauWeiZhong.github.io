@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Lau Wei Zhong"
+title                    : "Jonathan Lau Wei Zhong / Jonathan Wei Zhong Lau"
 title_separator          : "-"
-name                     : "Jonathan Lau Wei Zhong"
+name                     : "Jonathan Lau Wei Zhong / Jonathan Wei Zhong Lau"
 description              : &description "personal description"
 url                      : https://tmog123.github.io/JonathanLauWeiZhong.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
