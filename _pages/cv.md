@@ -90,7 +90,7 @@ Service and leadership
 
 Other Certifications
 =====
-* WSET Level 1 Award in Wine
+* WSET Level 2 Award in Wine (Merit)
 * Advanced certificate in network operations management, monitoring & maintenance
 
 
