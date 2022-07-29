@@ -17,9 +17,17 @@ Education
 
 Work experience
 ======
+* 2021 - Present: Graduate Teaching Assistant
+  * Teaching assistant for PC4241, Statistical Mechanics, in the National University of Singapore. 
+  * See Teaching tab for more details.
+
 * 2020 - Present: PhD student/researcher
   * Research direction: to study how we can use near term quantum devices to study various problems in physics and chemistry.
   * Supervisor: Kwek Leong Chuan
+
+* 2018 - 2020: Undergraduate Teaching Assistant
+  * Teaching assistant for CS1010S in the National University of Singapore. 
+  * See Teaching tab for more details.
 
 * 2018 - 2020: Undergraduate Student Researcher
   * Was an undergraduate researcher working on Density Functional Theory, and applying it to cold atomic systems.
