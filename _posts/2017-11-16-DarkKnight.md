@@ -9,8 +9,6 @@ tags:
 Thoughts on The Dark Knight.
 ======
 
-Testtest
-
 By nature, the superhero movie seeks to start a discussion on the nature of heroes (or at least it should). I think that every child when growing up has had heroes that he or she looks up to, whether they be real people they interact with, historical people, or imaginary, fictional characters. Indeed, I think as adults, although we might not talk about it as much, heroes still loom large in our subconscious minds. Unfortunately, most superhero movies fail to deliver, with most descending into pure mindless CG brawls, with uninteresting villains and heroes that are not well written. A few do stand out tho, like Spiderman 2 (Dr Octopus), Iron man 1 and the Winter Soldier, but I feel that no movie has ever come close to Nolan’s masterpiece, The Dark Knight.
 
 
