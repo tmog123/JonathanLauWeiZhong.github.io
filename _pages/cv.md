@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Physics, National University of Singapore/Center for Quantum Technologies, 2024 (expected)
+  * 4.8/5.0
 * B.Sc. (Hons) in Physics, National University of Singapore, 2020 
   * First Class Honours
-* Ph.D in Physics, National University of Singapore/Center for Quantum Technologies, 2024 (expected)
 
 Work experience
 ======
@@ -40,18 +41,45 @@ Work experience
 
 Refereed Journals & Conferences
 ======
+* PRX Quantum
 * International Journal of Quantum Information
 * Quantum Techniques in Machine Learning 2021
 * Quantum Science and Technology
 * AVS Quantum Science
 * Physical Review A (Sub-referee)
 
-Skills
+Technical Skills
 ======
-* Research & Mathematical Modeling
-* Programming
+* Programming Languages
   * Python
   * Matlab
+
+* Mathematical Modelling
+  * Numpy
+  * Scipy
+
+* Mathematical Programs
+  * Mathematica
+  * Maple
+
+* Machine Learning
+  * Pytorch
+  * Scikit
+
+* Data Analysis
+  * Pandas
+  * Matplotlib
+
+* Mathematical Optimization
+  * CVX
+
+* Office Programs
+  * Latex
+  * Microsoft Office
+
+* Operating Systems
+  * Windows
+  * Linux
 
 Languages
 =====
@@ -71,13 +99,15 @@ Languages
     <ul>{% for post in site.talks %}
       {% include archive-single-talk-cv.html %}
     {% endfor %}</ul>
-{% endcomment %}  
+
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+{% endcomment %}  
 
 Service and leadership
 ======
