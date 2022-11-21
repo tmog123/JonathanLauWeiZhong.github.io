@@ -1,7 +1,7 @@
 ---
 title: 'Chinese Air Bases in the Spratleys'
 date: 2016-08-02
-permalink: /posts/2016/08/blog-post-1/
+permalink: /posts/2016/08/ChinaSpratleys/
 tags:
   - Current Affairs
   - History
