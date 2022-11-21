@@ -12,3 +12,6 @@ permalink: /RSSFeed/
 
 ## Nature Physics Feed
 <script src="//rss.bloople.net/?url=http%3A%2F%2Fwww.nature.com%2Fnphys%2Fcurrent_issue%2Frss%2F&limit=20&showtitle=false&type=js"></script>
+
+## Quantum Feed 
+<script src="//rss.bloople.net/?url=http%3A%2F%2Fwp.quantum-journal.org%2Ffeed%2F&limit=15&showtitle=false&type=js"></script>
