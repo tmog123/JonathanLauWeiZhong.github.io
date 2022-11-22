@@ -15,6 +15,8 @@ Learning quantitative finance. Notes and code so far are found here
 
 * 1.2 Introduction to statistical interference [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_2_Introduction_Statistical_Inference.ipynb).
 
+* 1.3 Very short introduction to stochastic processes [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_3_Introduction_Stochastic_Processes.ipynb).
+
 ## Physics Research Interests
 
 My research interests are somewhat broad, but the common theme is investigating how we might use the energing platforms that the field of quantum technologies is providing us (in particular quantum simulators and near term quantum computers) for practical purposes. In particular, we have an interest in utilizing such platforms to study dynamics in many-body physics. 
