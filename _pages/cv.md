@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version can be found [here](./CV.pdf)
+
 Education
 ======
 * Ph.D in Physics, National University of Singapore/Center for Quantum Technologies, 2024 (expected)
