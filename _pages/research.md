@@ -9,6 +9,8 @@ redirect_from:
 
 ## Personal Projects
 
+### Learning Quant Finance ###
+
 Learning quantitative finance. Notes and code so far are found here
 
 * 1.1 Introduction to probability and stats [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_1_Introduction_Prob_stats.ipynb).
@@ -18,6 +20,10 @@ Learning quantitative finance. Notes and code so far are found here
 * 1.3 Very short introduction to stochastic processes [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_3_Introduction_Stochastic_Processes.ipynb).
 
 * 1.4 Introduction to linear regression [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_4_Introduction_Linear_Regression.ipynb).
+
+### Random studies ###
+
+* HDB housing analysis on singapore
 
 ## Physics Research Interests
 
