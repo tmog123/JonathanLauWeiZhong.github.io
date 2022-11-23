@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version can be found [here](./CV.pdf)
+PDF version can be found [here](https://drive.google.com/file/d/1-kxpfBL8GPaBeRfMACNui8aJACJOJb55/view?usp=sharing)
 
 Education
 ======
