@@ -23,7 +23,7 @@ Learning quantitative finance. Notes and code so far are found here
 
 ### Random studies ###
 
-* HDB housing analysis on singapore
+* HDB housing analysis in Singapore
 
 ## Physics Research Interests
 
