@@ -21,6 +21,8 @@ Learning quantitative finance. Notes and code so far are found here
 
 * 1.4 Introduction to linear regression [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_4_Introduction_Linear_Regression.ipynb).
 
+* 1.5 Principal Component Analysis [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_5_Principal_Component_analysis.ipynb).
+
 ### Random studies ###
 
 * HDB housing analysis in Singapore [Here](https://github.com/tmog123/RandomAnalysis/blob/main/HDBresaleanalysis.ipynb)
