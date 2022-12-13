@@ -25,7 +25,7 @@ Learning quantitative finance. Notes and code so far are found here. Right now, 
 
 #### Short Survey of Methods ####
 
-* 2.1 Principal Component Analysis [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_5_Principal_Component_analysis.ipynb).
+* 2.1 Principal Component Analysis [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/2_1_Principal_Component_analysis.ipynb).
 
 ### Random studies ###
 
