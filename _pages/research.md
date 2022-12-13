@@ -15,7 +15,7 @@ Learning quantitative finance. Notes and code so far are found here. Right now, 
 
 #### Basics ####
 
-* 1.1 Introduction to probability and stats [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_1_Introduction_Prob_stats.ipynb).
+* 1.1 Introduction to probability and stats [Here](https://hub.gke2.mybinder.org/user/tmog123-learningquantfinance-nzcouju5/lab/tree/1_1_Introduction_Prob_stats.ipynb).
 
 * 1.2 Introduction to statistical interference [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_2_Introduction_Statistical_Inference.ipynb).
 
