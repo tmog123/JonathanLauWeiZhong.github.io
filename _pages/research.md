@@ -27,6 +27,8 @@ Learning quantitative finance. Notes and code so far are found here. Right now, 
 
 * 2.1 Principal Component Analysis [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/2_1_Principal_Component_analysis.ipynb).
 
+* 2.2 Finding Roots through Iteration [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/2_2_Finding_Roots_Iteration.ipynb).
+
 ### Random studies ###
 
 * HDB housing analysis in Singapore [Here](https://github.com/tmog123/RandomAnalysis/blob/main/HDBresaleanalysis.ipynb)
