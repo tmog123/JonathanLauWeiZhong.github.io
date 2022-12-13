@@ -13,6 +13,8 @@ redirect_from:
 
 Learning quantitative finance. Notes and code so far are found here. Right now, notes mainly taken from Market Risk Analysis, Quantitative Methods in Finance by Carol Alexander.
 
+All the links can be found [Here](https://hub.gke2.mybinder.org/user/tmog123-learningquantfinance-nzcouju5/lab).
+
 #### Basics ####
 
 * 1.1 Introduction to probability and stats [Here](https://hub.gke2.mybinder.org/user/tmog123-learningquantfinance-nzcouju5/lab/tree/1_1_Introduction_Prob_stats.ipynb).
