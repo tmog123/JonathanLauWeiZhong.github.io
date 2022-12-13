@@ -19,17 +19,17 @@ All the links can be found [Here](https://hub.gke2.mybinder.org/user/tmog123-lea
 
 * 1.1 Introduction to probability and stats [Here](https://hub.gke2.mybinder.org/user/tmog123-learningquantfinance-nzcouju5/lab/tree/1_1_Introduction_Prob_stats.ipynb).
 
-* 1.2 Introduction to statistical interference [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_2_Introduction_Statistical_Inference.ipynb).
+* 1.2 Introduction to statistical interference [Here](https://hub.gke2.mybinder.org/user/tmog123-learningquantfinance-nzcouju5/lab/workspaces/auto-d/tree/1_2_Introduction_Statistical_Inference.ipynb).
 
-* 1.3 Very short introduction to stochastic processes [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_3_Introduction_Stochastic_Processes.ipynb).
+* 1.3 Very short introduction to stochastic processes [Here](https://hub.gke2.mybinder.org/user/tmog123-learningquantfinance-nzcouju5/lab/workspaces/auto-d/tree/1_3_Introduction_Stochastic_Processes.ipynb).
 
-* 1.4 Introduction to linear regression [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_4_Introduction_Linear_Regression.ipynb).
+* 1.4 Introduction to linear regression [Here](https://hub.gke2.mybinder.org/user/tmog123-learningquantfinance-nzcouju5/lab/workspaces/auto-d/tree/1_4_Introduction_Linear_Regression.ipynb).
 
 #### Short Survey of Methods ####
 
-* 2.1 Principal Component Analysis [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/2_1_Principal_Component_analysis.ipynb).
+* 2.1 Principal Component Analysis [Here](https://hub.gke2.mybinder.org/user/tmog123-learningquantfinance-nzcouju5/lab/workspaces/auto-d/tree/2_1_Principal_Component_analysis.ipynb).
 
-* 2.2 Finding Roots through Iteration [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/2_2_Finding_Roots_Iteration.ipynb).
+* 2.2 Finding Roots through Iteration [Here](https://hub.gke2.mybinder.org/user/tmog123-learningquantfinance-nzcouju5/lab/workspaces/auto-d/tree/2_2_Finding_Roots_Iteration.ipynb).
 
 ### Random studies ###
 
