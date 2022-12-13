@@ -13,6 +13,8 @@ redirect_from:
 
 Learning quantitative finance. Notes and code so far are found here. Right now, notes mainly taken from Market Risk Analysis, Quantitative Methods in Finance by Carol Alexander.
 
+#### Basics ####
+
 * 1.1 Introduction to probability and stats [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_1_Introduction_Prob_stats.ipynb).
 
 * 1.2 Introduction to statistical interference [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_2_Introduction_Statistical_Inference.ipynb).
@@ -21,7 +23,9 @@ Learning quantitative finance. Notes and code so far are found here. Right now, 
 
 * 1.4 Introduction to linear regression [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_4_Introduction_Linear_Regression.ipynb).
 
-* 1.5 Principal Component Analysis [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_5_Principal_Component_analysis.ipynb).
+#### Short Survey of Methods ####
+
+* 2.1 Principal Component Analysis [Here](https://github.com/tmog123/LearningQuantFinance/blob/main/1_5_Principal_Component_analysis.ipynb).
 
 ### Random studies ###
 
