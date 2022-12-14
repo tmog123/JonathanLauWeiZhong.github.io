@@ -31,6 +31,10 @@ All the links can be found [Here](https://mybinder.org/v2/gh/tmog123/LearningQua
 
 * 2.2 Finding Roots through Iteration [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/2_2_Finding_Roots_Iteration.ipynb).
 
+* 2.3 Interpolation and Extrapolation [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/2_3_Interpolation_Extrapolation.ipynb).
+
+* 2.4 Optimization [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/2_4_Optimization.ipynb).
+
 ### Random studies ###
 
 * HDB housing analysis in Singapore [Here](https://nbviewer.org/github/tmog123/RandomAnalysis/blob/main/HDBresaleanalysis.ipynb)
