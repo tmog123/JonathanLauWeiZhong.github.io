@@ -35,6 +35,8 @@ All the links can be found [Here](https://mybinder.org/v2/gh/tmog123/LearningQua
 
 * 2.4 Optimization [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/2_4_Optimization.ipynb).
 
+* 2.5 Finite Difference Approximations [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/2_5_Finite_Difference_Approximations.ipynb).
+
 ### Random studies ###
 
 * HDB housing analysis in Singapore [Here](https://nbviewer.org/github/tmog123/RandomAnalysis/blob/main/HDBresaleanalysis.ipynb)
