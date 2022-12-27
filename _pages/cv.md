@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version can be found [here](https://drive.google.com/file/d/1-kxpfBL8GPaBeRfMACNui8aJACJOJb55/view?usp=sharing)
+A PDF version can be found [here](https://drive.google.com/file/d/1rOAE7OqxnwmhJgmWXR-KzKUxfWc2n3AV/view?usp=sharing)
 
 Education
 ======
