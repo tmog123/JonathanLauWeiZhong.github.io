@@ -37,6 +37,8 @@ All the links can be found [Here](https://mybinder.org/v2/gh/tmog123/LearningQua
 
 * 2.5 Finite Difference Approximations [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/2_5_Finite_Difference_Approximations.ipynb).
 
+* 2.6 Binomial Lattices [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/2_6_Binomial_Lattices.ipynb)
+
 ### Random studies ###
 
 * HDB housing analysis in Singapore [Here](https://nbviewer.org/github/tmog123/RandomAnalysis/blob/main/HDBresaleanalysis.ipynb)
