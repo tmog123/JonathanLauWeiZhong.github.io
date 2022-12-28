@@ -39,6 +39,10 @@ All the links can be found [Here](https://mybinder.org/v2/gh/tmog123/LearningQua
 
 * 2.6 Binomial Lattices [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/2_6_Binomial_Lattices.ipynb)
 
+#### Portfolio Theory ####
+
+* 3.1 Utility Theory [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/3_1_Utility_Theory.ipynb)
+
 ### Random studies ###
 
 * HDB housing analysis in Singapore [Here](https://nbviewer.org/github/tmog123/RandomAnalysis/blob/main/HDBresaleanalysis.ipynb)
