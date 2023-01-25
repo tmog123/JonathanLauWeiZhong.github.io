@@ -47,6 +47,8 @@ All the links can be found [Here](https://mybinder.org/v2/gh/tmog123/LearningQua
 
 * 3.3 Introduction to Asset Pricing [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/3_3_Introduction_Asset_Pricing.ipynb)
 
+* 3.4 Risk Adjusted Performance Measures [Here](https://nbviewer.org/github/tmog123/LearningQuantFinance/blob/main/3_4_Risk_Adjusted_Performance_Measures.ipynb)
+
 ### Random studies ###
 
 * HDB housing analysis in Singapore [Here](https://nbviewer.org/github/tmog123/RandomAnalysis/blob/main/HDBresaleanalysis.ipynb)
