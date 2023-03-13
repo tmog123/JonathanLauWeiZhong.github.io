@@ -53,6 +53,8 @@ All the links can be found [Here](https://mybinder.org/v2/gh/tmog123/LearningQua
 
 * HDB housing analysis in Singapore [Here](https://nbviewer.org/github/tmog123/RandomAnalysis/blob/main/HDBresaleanalysis.ipynb)
 
+* Other random studies [Here](https://github.com/tmog123/RandomAnalysis)
+
 ## Physics Research Interests
 
 My research interests are somewhat broad, but the common theme is investigating how we might use the energing platforms that the field of quantum technologies is providing us (in particular quantum simulators and near term quantum computers) for practical purposes. In particular, we have an interest in utilizing such platforms to study dynamics in many-body physics. 
