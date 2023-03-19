@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Projects and Research"
+title: "Notes and Research"
 permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## Personal Projects
+## Personal Notes
 
 ### Learning Quant Finance ###
 
