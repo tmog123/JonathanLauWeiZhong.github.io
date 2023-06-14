@@ -9,7 +9,7 @@ redirect_from:
 
 ## Policy Projects
 
-* Developing an Agent-Based Model for the housing market in Singapore [Here](https://nbviewer.org/github/tmog123/RandomAnalysis/blob/main/ABM_housing_4agents.ipynb). Still a work in progress!
+* Developing an Agent-Based Model for the housing market in Singapore [Here](https://nbviewer.org/github/tmog123/RandomAnalysis/blob/main/Tutorial_Agent_based_model_housing.ipynb). Still a work in progress!
 
 ## Personal Notes
 
