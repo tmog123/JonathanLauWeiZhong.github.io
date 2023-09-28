@@ -2,7 +2,7 @@
 title: "Atomtronic multi-terminal Aharonov-Bohm interferometer"
 collection: publications
 permalink: /publication/lau2022atomtronic
-date: 2022-05-03
+date: 2023-05-24
 venue: 'Physical Review A 107, L051303'
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.L051303'
 ---
