@@ -15,18 +15,38 @@ Education
 ======
 * Ph.D in Physics, National University of Singapore/Center for Quantum Technologies, 2024 (expected)
   * 4.8/5.0
+  * Selected modules taken: Advanced Statistical Mechanics, Advanced Dynamics, Variational Principles, Quantum State Estimation, Quantum Information and Computation.
 * B.Sc. (Hons) in Physics, National University of Singapore, 2020 
   * First Class Honours
+  * Honours Project: Developed and bench marked leapfrog algorithms for numerical time evolution of classical and quantum systems, for faster simulations of physical systems on computers. Co-authored a paper based on the work done.
+  * Selected modules taken: Programming Methodology, Linear Algebra, Calculus, Mathematical Methods in Physics, Statistical Physics, Quantum Mechanics, Fluid Dynamics.
 
 Work experience
 ======
-* 2021 - Present: Graduate Teaching Assistant
-  * Teaching assistant for PC4241, Statistical Mechanics, in the National University of Singapore. 
-  * See Teaching tab for more details.
+
+* 2022 - Present: Intern, Full-time
+  * Quantitative Research Intern at Qube Research & Technologies, Singapore.
+  * Index Market Making Team.
 
 * 2020 - Present: PhD student/researcher
   * Research direction: to study how we can use near term quantum devices to study various problems in physics and chemistry.
   * Supervisor: Kwek Leong Chuan
+  * Formulated multiple research ideas and spearheaded the projects to completion. Co-authored 7 papers so far.
+  * Managed the running of my professors group meetings, involving scheduling speakers and handling communications with university administration.
+  * Investigated how to construct and analyze quantum algorithms for use on near-term quantum computers and simulators.
+  * Improved on and expanded the use cases for near-term quantum optimization algorithms.
+  * Proposed the use of Integrated Photonic Chips for use in machine learning approaches for prediction of molecular properties.
+  * Conceptualized the use of certain cold-atom setups for atomtronic switches, to control cold-atom currents.
+  * Collaborated with multiple researchers, both theoretical and experimental.
+
+* 2022 : Intern, Part-time
+  * Intern at Strategy Group, Prime Minister’s Office, Singapore.
+  * Proposed and implemented population and housing models to predict housing demand up to 2040.
+  * Constructed and ran an Agent-based model to simulate Singapore's housing market. Utilized the model to study the effects of different policies on housing and rental prices.
+
+* 2021 : Graduate Teaching Assistant
+  * Teaching assistant for PC4241, Statistical Mechanics, in the National University of Singapore. 
+  * See Teaching tab for more details.
 
 * 2018 - 2020: Undergraduate Teaching Assistant
   * Teaching assistant for CS1010S in the National University of Singapore. 
@@ -43,6 +63,7 @@ Work experience
 
 Refereed Journals & Conferences
 ======
+* Quantum
 * PRX Quantum
 * International Journal of Quantum Information
 * Quantum Techniques in Machine Learning 2021
@@ -82,6 +103,10 @@ Technical Skills
 * Operating Systems
   * Windows
   * Linux
+
+* Agent-Based Modelling
+
+* Quant Finance Research
 
 Languages
 =====
